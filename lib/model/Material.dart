@@ -1,0 +1,1 @@
+enum Material {madera, cuero, cristal, porcelana, metal, tela}
